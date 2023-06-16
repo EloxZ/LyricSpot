@@ -20,7 +20,7 @@ How to use:
 If everything goes fine, a session.cfg file will be created in the .exe directory. This will save the session for future uses, delete it if you want to
 access with another configuration/account.
 
-You can add a delay or anticipation to lyrics if the synchronization is a bit off in the current song. The default value works fine for most songs.
+You can add a delay or anticipation to the lyrics if the synchronization is a bit off in the current song. The default value works fine for most songs.
 
 ![image](https://github.com/EloxZ/LyricSpot/assets/45355879/d5aa8e79-23d4-44f9-92bc-3381f74b41c4)
 
